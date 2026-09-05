@@ -69,12 +69,12 @@ An ocean-data explorer with ARGO maps, profiles, alerts, downloads and a convers
 ## `// activity_feed`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ameya5006&theme=github_dark" alt="Ameya's GitHub activity summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ameya5006&theme=radical" alt="Ameya's GitHub activity summary" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ameya5006/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode-12_synced-57E4EF?style=for-the-badge&logo=leetcode&logoColor=111827" alt="12 NeetCode problems synced" /></a>
-  <img src="https://img.shields.io/badge/verified_streak-3_days-A996FF?style=for-the-badge" alt="Three-day verified submission streak" />
+  <a href="https://github.com/Ameya5006/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode-12_synced-00F0FF?style=for-the-badge&logo=leetcode&logoColor=050816&labelColor=050816" alt="12 NeetCode problems synced" /></a>
+  <img src="https://img.shields.io/badge/verified_streak-3_days-FF1744?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=050816" alt="Three-day verified submission streak" />
 </p>
 
 <p align="center"><sub>C++ · arrays · hashing · binary search · sorting · snapshot verified 5 Sep 2026</sub></p>
