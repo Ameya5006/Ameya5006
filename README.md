@@ -1,17 +1,14 @@
 <div align="center">
 
-<h1>Hi, I'm Ameya 👋</h1>
-<h3>Full-Stack & Flutter Developer · B.Tech CSE @ Bennett University</h3>
 
-<p>
-  I build useful web and mobile products with clean interfaces,<br/>
-  practical automation and thoughtfully chosen technology.
-</p>
 
 <a href="https://github.com/Ameya5006">
   <img src="https://komarev.com/ghpvc/?username=Ameya5006&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" />
 </a>
-<img src="https://img.shields.io/badge/OPEN_TO-LEARNING_%26_COLLABORATION-7C3AED?style=for-the-badge" alt="Open to learning and collaboration" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+useful+web+and+mobile+experiences;React+%7C+Flutter+%7C+Firebase+%7C+TypeScript;Exploring+AI%2FML+and+solving+problems+with+code" alt="Typing introduction" />
 
 </div>
 
@@ -90,13 +87,24 @@ Testing, DevOps & Tools
 <summary><strong>More libraries and tools I have worked with</strong></summary>
 <br/>
 
-React 18 & 19 · TypeScript 5 & 6 · Vite 7 & 8 · Mongoose · bcrypt.js · CORS · Zod · Lucide React · PostCSS · Autoprefixer · Nodemon · jsdom · CallMeBot · fl_chart · pedometer · share_plus · flutter_map · latlong2 · Flutter Animations · flutter_staggered_animations
+React 18 & 19 · TypeScript 5 & 6 · Vite 7 & 8 · Mongoose · bcrypt.js · CORS · Zod · Lucide React · PostCSS · Autoprefixer · Nodemon · jsdom · CallMeBot · fl_chart · Flutter Animations · flutter_staggered_animations
 
 </details>
 
 </div>
 
 🌟 Projects I've Built
+
+<div align="center">
+
+<a href="https://github.com/Ameya5006/Dual-gym-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ameya5006&repo=Dual-gym-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=C9D1D9" alt="GymFlow repository card" />
+</a>
+<a href="https://github.com/Ameya5006/PalmChef">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ameya5006&repo=PalmChef&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=C9D1D9" alt="PalmChef repository card" />
+</a>
+
+</div>
 
 🥊 GymFlow — Multi-Gym Membership Platform
 
@@ -150,64 +158,36 @@ A gesture-controlled cooking companion designed to make following recipes easier
   </a>
 </p>
 
-❤️ Amedic — Flutter Health Tracker
+❤️ Flutter Health App
 
-A cross-platform health application for monitoring daily activity and calculating useful wellness metrics.
+A cross-platform wellness application built around daily health tracking and a personalized dashboard.
 
-Real-time step counting using the device pedometer
+Health dashboard with profile, sleep, nutrition, goals and exercise tracking
 
-BMI, BMR, calorie, sleep-efficiency and gait calculations
+Email/password authentication using Firebase Auth
 
-Sleep, nutrition, exercise and goal-tracking screens
+Interactive charts with fl_chart
 
-Interactive health visualizations with fl_chart
+Smooth UI using Flutter animation packages and staggered animations
 
-Shareable health summaries, a customizable dashboard and light/dark themes
+Settings and dark-mode support
 
-Stack: Flutter · Dart · Material UI · pedometer · fl_chart · animations · flutter_staggered_animations · share_plus
-
-🌊 FloatChat / ARGO Mobile — Ocean Data Explorer
-
-A cross-platform Flutter exploration app that presents ARGO ocean-float data through maps, profiles and a conversational interface.
-
-Interactive float map and ocean-profile exploration
-
-Demo chatbot for natural-language ocean-data questions
-
-Alerts, downloads and environmental-data views
-
-Responsive Material interface with light/dark theming
-
-Multi-platform Flutter structure for mobile, web and desktop
-
-Stack: Flutter · Dart · Material UI · flutter_map · latlong2
+Stack: Flutter · Dart · Firebase Core · Firebase Auth · fl_chart · animations · flutter_staggered_animations
 
 More projects are currently taking shape — including Mechyx and Kyora.
 
-🧩 DSA & Problem Solving
+📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Ameya5006/neetcode-submissions">
-  <img src="https://img.shields.io/badge/NeetCode_PROBLEMS_SYNCED-12-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" alt="12 unique NeetCode problems synced" />
-</a>
-<img src="https://img.shields.io/badge/SUBMISSION_STREAK-3_DAYS-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="Three-day submission streak" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Ameya5006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="Ameya's GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameya5006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Ameya's most-used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Ameya5006&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="Ameya's GitHub streak" />
 
 </div>
-
-Solving DSA and interview problems primarily in C++
-
-12 unique problems currently synced to my NeetCode solutions repository
-
-Latest verified streak: 3 consecutive submission days — September 2–4, 2026
-
-Topics practiced include binary search, hashing, arrays, sorting and frequency-based problems
-
-<p align="center">
-  <a href="https://github.com/Ameya5006/neetcode-submissions">
-    <img src="https://img.shields.io/badge/VIEW_NEETCODE_SOLUTIONS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View NeetCode solutions" />
-  </a>
-</p>
 
 🤝 Let's Connect
 
@@ -221,4 +201,8 @@ I'm always open to discussing projects, learning opportunities and interesting i
 
 </div>
 
-<p align="center"><em>Building, learning and improving—one project and one problem at a time.</em></p>
+<div align="center">
+
+
+
+</div>
