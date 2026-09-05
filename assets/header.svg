@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Ameya</title>
+  <desc id="desc">Full-Stack and Flutter Developer, Creative Problem Solver</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06B6D4"/><stop offset=".5" stop-color="#2563EB"/><stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <style>.title{font:700 72px 'DejaVu Sans',Arial,sans-serif;letter-spacing:1px}.sub{font:500 19px 'DejaVu Sans',Arial,sans-serif;letter-spacing:.4px}</style>
+  </defs>
+  <path fill="url(#g)" d="M0 0h1200v164c-154 44-330 65-517 38C477 172 266 153 0 211V0z"/>
+  <text x="600" y="88" fill="#FFF" text-anchor="middle" class="title">Ameya</text>
+  <text x="600" y="127" fill="#FFF" text-anchor="middle" class="sub">Full-Stack &amp; Flutter Developer  •  Creative Problem Solver</text>
+</svg>
