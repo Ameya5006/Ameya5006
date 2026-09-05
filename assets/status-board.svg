@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title desc">
+  <title id="title">Ameya's current development status</title>
+  <desc id="desc">Building full-stack products, exploring Flutter and AI/ML, and solving DSA in C++.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1"><stop stop-color="#091222"/><stop offset="1" stop-color="#15122D"/></linearGradient>
+    <style>
+      .label{font:700 13px 'DejaVu Sans Mono',monospace;letter-spacing:1px}.main{font:700 20px 'DejaVu Sans',sans-serif}.sub{font:400 14px 'DejaVu Sans',sans-serif}.dot{animation:pulse 1.8s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="998" height="188" rx="18" fill="url(#bg)" stroke="#293A5A"/>
+  <text x="28" y="34" class="label" fill="#A996FF">CURRENT SIGNAL</text>
+  <circle class="dot" cx="954" cy="29" r="5" fill="#89F0B8"/><text x="941" y="34" text-anchor="end" class="label" fill="#89F0B8">ONLINE</text>
+  <line x1="333" y1="58" x2="333" y2="161" stroke="#293A5A"/><line x1="666" y1="58" x2="666" y2="161" stroke="#293A5A"/>
+  <text x="42" y="86" class="label" fill="#57E4EF">01 / BUILD</text><text x="42" y="120" class="main" fill="#F1F5FF">Full-stack products</text><text x="42" y="146" class="sub" fill="#9EADC5">React · Firebase · APIs</text>
+  <text x="375" y="86" class="label" fill="#A996FF">02 / EXPLORE</text><text x="375" y="120" class="main" fill="#F1F5FF">Flutter + AI/ML</text><text x="375" y="146" class="sub" fill="#9EADC5">Mobile · data · automation</text>
+  <text x="708" y="86" class="label" fill="#89F0B8">03 / SOLVE</text><text x="708" y="120" class="main" fill="#F1F5FF">DSA in C++</text><text x="708" y="146" class="sub" fill="#9EADC5">12 synced · keep moving</text>
+</svg>
