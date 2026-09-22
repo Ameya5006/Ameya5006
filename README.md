@@ -1,5 +1,15 @@
 <div align="center">
 
+<h1><a href="https://portfolio-ameya5006s-projects.vercel.app/">⚡ ENTER MY INTERACTIVE PORTFOLIO ↗</a></h1>
+
+<p><strong>See the projects in motion — not just in repositories.</strong></p>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="assets/mission-control.gif" width="100%" alt="Animated developer mission control connecting Ameya's GymFlow, PalmChef, Amedic and FloatChat projects" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=850&color=57E4EF&center=true&vCenter=true&width=760&lines=Full-Stack+%C3%97+Flutter+Developer;Turning+practical+chaos+into+clean+products;Currently+exploring+AI%2FML+%2B+DSA" alt="Animated introduction" />
